@@ -1,9 +1,10 @@
 
 # Drawing circle using python tuttle graphics
 
-This is a simple project where I have experimented 
-with python turtle graphics and draw mane multi-colored
+In this simple project where I have experimented 
+with python turtle graphics and drew many multi-colored
 circles to create a nice visual. 
+
 ## Tech Stack
 
 Pure python
